@@ -1,2 +1,7 @@
 hello there
+<<<<<<< HEAD
 khanalipor
+=======
+im batman
+>>>>>>> 342834e8e079e3a5b372a4951285fab2395ca8ce
+joooooon
