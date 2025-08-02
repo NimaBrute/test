@@ -6,12 +6,6 @@ im batman jafari
 
 Im Front-end developer darvish
 
-<<<<<<< HEAD
-=======
-joooooon jjjjjjjooooooojooooo
-
-ooooooooooooffffffffffff ame darvish
->>>>>>> e4e64755e1d73cb5dc76849e980721be782d8652
 
 
 
@@ -24,16 +18,3 @@ ooooooooooooffffffffffff ame darvish
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-nimaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> 9d26af4950f241265a9d8283e46db08a545e74f8
