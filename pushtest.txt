@@ -1,15 +1,7 @@
-hello there
-<<<<<<< HEAD
-<<<<<<< HEAD
+hello there nima andalib
+
 khanalipor
-=======
-im batman
->>>>>>> 342834e8e079e3a5b372a4951285fab2395ca8ce
 
-=======
-im batman
-Im Front-end developer
->>>>>>> 5b85f3ef143443fc5f48939455372926015f4371
+im batman jafari
 
-
-joooooon jjjjjjjooooooojooooo
+Im Front-end developer darvish
